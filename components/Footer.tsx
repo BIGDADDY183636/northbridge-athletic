@@ -57,6 +57,9 @@ export default function Footer() {
         <p className="font-body text-chalk/15 text-[0.58rem] tracking-wide uppercase">
           © 2026 Northbridge Athletic
         </p>
+        <p className="font-body text-chalk/12 text-[0.56rem] mt-1 italic">
+          Concept build for JBAR Design Studio. Not a real business.
+        </p>
       </div>
     </footer>
   );
