@@ -9,7 +9,7 @@ export default function Footer() {
               className="font-display text-lime leading-none select-none"
               style={{ fontSize: "clamp(3rem, 6vw, 7rem)", letterSpacing: "-0.02em" }}
             >
-              NBA
+              NBR
             </div>
             <p className="font-body text-chalk/25 text-[0.6rem] tracking-[0.2em] uppercase mt-2">
               Northbridge Athletic · Chicago, IL

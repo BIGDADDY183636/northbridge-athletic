@@ -18,13 +18,13 @@ export default function Nav() {
       }`}
     >
       <nav className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
-        {/* Wordmark — "NBA" wink */}
+        {/* Wordmark */}
         <a href="#" className="flex items-baseline gap-2">
           <span
             className="font-display text-lime leading-none select-none"
             style={{ fontSize: "1.8rem", letterSpacing: "-0.01em" }}
           >
-            NBA
+            NBR
           </span>
           <span className="font-body text-chalk/25 text-[0.58rem] tracking-[0.15em] uppercase hidden sm:inline">
             Northbridge Athletic
